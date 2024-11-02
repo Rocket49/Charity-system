@@ -2,7 +2,7 @@
 
 A Blockchain-based Charity Platform for Transparent Donations.
 
-Table of Contents
+## Table of Contents
 
 - Introduction
 - Features
@@ -62,9 +62,9 @@ We welcome contributions! Please:
 CharityChain is licensed under the MIT License. See LICENSE for details.
 
 ## Authors
-
-- (link unavailable)
-- (link unavailable)
-- (link unavailable)
+.
+.
+.
+.
 
 Thank you for supporting CharityChain!
